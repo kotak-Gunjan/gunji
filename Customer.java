@@ -4,5 +4,6 @@ Class Nautanki{
   
   public class abc(){
     System.out.print("Bakaiti");
+    return a;
   }
 }
